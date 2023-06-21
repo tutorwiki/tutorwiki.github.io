@@ -6,7 +6,7 @@ var msgs = [
   'A Stamina regenera de 3 maneiras: Offline (Cama ou Statua), PZ (House, DP, Templo, Adventurers Guild) e nos Trainers BATENDO no MONK. A Stamina Verde regenera 1 min a cada 5 min RL, enquanto a Stamina Laranja regenera 1 min a cada 3 min RL.',
   'A Loot Pouch é um recipiente exclusivo para coletar loot, você configura ela no Quick Loot (recomento Unassigned) e o loot vai diretamente para ela. O peso dos itens continuam contando para a cap do personagem.',
   'Para seu personagem não gerar mais flask vazia ao usar potions, digite !flask on (off para desativar).',
-  'Para suas magias não saírem mais no Local Chat e ficarem em laranja na tela, digite !emotespell off (on para desativar) - "!command normal” para mais comandos como esse.',
+  'Para suas magias não saírem mais no Local Chat e ficarem em laranja na tela, digite !emotespell off (on para desativar).',
   'Voce ganha Tournament Poins ficando online durante 1 hora continua. Enquanto Free recebem 10 Tournament/h, quem é VIP recebe 20 Tournament/h.',
   'Apenas é permitido anunciar venda de Char que ESTEJA NO BAZAR. Se depois de avisado o player continuar anunciando, o mesmo levara BAN de 1 dia, se persistir depois disso é BAN Permanente.',
   'Para utilizar o Bazar, você precisa se conectar no site. Utilize a tela do My Account para vender seus personagens, ou a opção lateral de Char Bazar, para verificar os personagens a venda. As taxas de compra/venda estão discriminadas no site.',
