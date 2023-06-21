@@ -26,10 +26,10 @@ var msgs = [
   'Ofensas CRIMINOSAS como: racismo, xenofobia, homofobia e etc.. Não serão toleradas e são passíveis de punição de acordo com a gravidade e contexto, caso seja vítima de algumas dessas ofensas encaminhe o máximo de provas possíveis (prints) para o e-mail do suporte.',
   'Todo e qualquer desrespeito, entre players e para/com a staff do jogo, não será tolerado e será punido de acordo com a gravidade e reincidência do ocorrido. Com a punição podendo variar entre WARNING até exclusão da conta.',
   'Rapaziada que estiver com lag: façam o procedimento do !discord, lá da aba "LAG ISSUES", e reportem lá mesmo na aba de "BUG REPORTS" e marquem o @worthdavi',
-  'Qualquer comércio no [World Chat] é proibido, mute sem aviso prévio. Por Gentileza use o [Advertising]',
-  'Conversas aleatórias, Vendas/Compras no Help não são permitidos, passivo de mute, Evitem por favor!',
+  'Qualquer comércio no [World Chat] é proibido, mute sem aviso prévio. Por gentileza use o [Advertising]',
+  'Conversas aleatórias, Vendas/Compras no Help não são permitidos, passivo de mute, evitem por favor!',
   'Utilize o HELP para dúvidas, o uso indevido resultará em mute. Use Wchat para boss/hunt e Adversing para vendas.',
-  'Para enviar os coins do Old para o ascencion basta seguir os passos do video -> .'
+  'Para enviar os coins do Old para o ascencion basta seguir os passos do video -> https://streamable.com/xfcuh2'
     ]
   
   function c(t) {
