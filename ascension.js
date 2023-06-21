@@ -1,5 +1,5 @@
 var msgs = [
-  'XP +30% // 2x Tournament Coins // Autoloot // Fast Regen // Montaria e Outfit Exclusivos // Boosted Exercises (25%+ Rapido) // Sistema de loyalty: A cada 30 dias de VIP comprados, o jogador ganha 1 de Skill com um limite de 10',
+  'Você pode ver todos os beneficios VIPs na descrição clicando na Store> VIP.',
   'O !autoloot é uma utilidade VIP. Com ele ativo, toda vez que voce mata uma criatura ela automaticamente é loteada. Caso você esteja em party, o leader recebe todo loot se ele for VIP. Precisa configurar o Quick Loot para funcionar',
   'O Hades Loot é uma alternativa de lotear para quem não tem VIP. Dando USE (pode colocar na Hotkey), ele loteia todas as criaturas ao seu redor, como um *exeta loot*. Custa 250 Tournament na Store e precisa configurar o Quick Loot para funcionar.',
   'Para comprar uma house você precisa ser lvl 250+. Va até a Cyclopedia, escolha uma house "Auctioned” e de um lance (BID). Se até o SS o seu BID for o maior, você ganha. Será descontado o BID Total + Aluguel Semanal. Cada conta pode ter apenas 1 House.',
