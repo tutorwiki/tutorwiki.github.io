@@ -10,7 +10,7 @@ var msgs = [
   'Voce ganha Tournament Poins ficando online durante 1 hora continua. Enquanto Free recebem 10 Tournament/h, quem é VIP recebe 20 Tournament/h.',
   'Apenas é permitido anunciar venda de Char que ESTEJA NO BAZAR. Se depois de avisado o player continuar anunciando, o mesmo levara BAN de 1 dia, se persistir depois disso é BAN Permanente.',
   'Para utilizar o Bazar, você precisa se conectar no site. Utilize a tela do My Account para vender seus personagens, ou a opção lateral de Char Bazar, para verificar os personagens a venda. As taxas de compra/venda estão discriminadas no site.',
-  'O uso de macro é liberado apenas para treino. Porém, é estritamente proibido o uso de macro para caçar. Quem for pego utilizando macro em locais de caça será banido por 365 dias (1 ano), podendo ter o prazo prorrogado dependendo da reincidência do mesmo no ato.',
+  'O uso de macro é liberado apenas para treino, sendo estritamente proibido o uso para caçar. Quem for pego utilizando macro em locais de caça será banido por 365 dias (1 ano), podendo ter o prazo estendido em casos de reincidência.',
   'Para reportar um Bot/Macro afk na hunt, de um Ctrl+Click no personagem suspeito e vá em "Report Bot/Macro”, assim que possível os GM irão averiguar o meliante em questão. ',
   'Para reportar um BUG, de um Ctrl+Z e em seguida coloque o máximo de detalhes possíveis para que a equipe encontre a causa do problema. Reportar bugs é importante e você pode ser recompensado por isso.',
   'Todo Donate é processado de forma automática pelo servidor. Normalmente o processo ocorre imediatamente, mas o prazo máximo é de 24hrs. Lembre-se, quanto mais TC você comprar, maior vai ser o desconto. ',
