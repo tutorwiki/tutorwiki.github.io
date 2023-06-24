@@ -28,7 +28,8 @@ var msgs = [
   'Rapaziada que estiver com lag: façam o procedimento do !discord, lá da aba "LAG ISSUES", e reportem lá mesmo na aba de "BUG REPORTS" e marquem o @worthdavi',
   'Qualquer comércio no [World Chat] é proibido, mute sem aviso prévio. Por Gentileza use o [Advertising]',
   'Conversas aleatórias, Vendas/Compras no Help não são permitidos, passivo de mute, Evitem por favor!',
-  'Utilize o HELP para dúvidas, o uso indevido resultará em mute. Use Wchat para boss/hunt e Adversing para vendas.'
+  'Utilize o HELP para dúvidas, o uso indevido resultará em mute. Use Wchat para boss/hunt e Adversing para vendas.',
+  'ferumbrinha.suporte@gmail.com'
   ]
 
 function c(t) {
