@@ -4,12 +4,12 @@ var msgs = [
   'O Ferumbrinha Loot é uma alternativa de lotear para quem não tem VIP. Dando USE (pode colocar na Hotkey), ele loteia todas as criaturas ao seu redor, como um *exeta loot*. Custa 250 Tournament na Store e precisa configurar o Quick Loot para funcionar.',
   'Para comprar uma house você precisa ser lvl 250+. Va até a Cyclopedia, escolha uma house "Auctioned” e de um lance (BID). Se até o SS o seu BID for o maior, você ganha. Será descontado o BID Total + Aluguel Semanal. Cada conta pode ter apenas 1 House.',
   'A Stamina regenera de 3 maneiras: Offline (Cama ou Statua), PZ (House, DP, Templo, Adventurers Guild) e nos Trainers BATENDO no MONK. A Stamina Verde regenera 1 min a cada 5 min RL, enquanto a Stamina Laranja regenera 1 min a cada 3 min RL.',
-  'A Loot Pouch é um recipiente exclusivo para coletar loot, você configura ela no Quick Loot (recomento Unassigned) e o loot vai diretamente para ela. O peso dos itens continuam contando para a cap do personagem.',
+  'A Loot Pouch é um recipiente exclusivo para coletar loot, você configura ela no Quick Loot (recomendo Unassigned) e o loot vai diretamente para ela. O peso dos itens continuam contando para a cap do personagem.',
   'Para seu personagem não gerar mais flask vazia ao usar potions, digite !flask on (off para desativar) - "!command normal” para mais comandos como esse.',
   'Para suas magias não saírem mais no Local Chat e ficarem em laranja na tela, digite !emotespell off (on para desativar) - "!command normal” para mais comandos como esse.',
   'Voce ganha Tournament Poins ficando online durante 1 hora continua. Enquanto Free recebem 10 Tournament/h, quem é VIP recebe 20 Tournament/h.',
-  'Apenas é permitido anunciar venda de Char que ESTEJA NO BAZAR. Se depois de avisado o player continuar anunciando, o mesmo levara BAN de 1 dia, se persistir depois disso é BAN Permanente.',
-  'Para utilizar o Bazar, você precisa se conectar no site. Utilize a tela do My Account para vender seus personagens, ou a opção lateral de Char Bazar, para verificar os personagens a venda. As taxas de compra/venda estão discriminadas no site.',
+  'Apenas é permitido anunciar venda de Char que ESTEJA NO BAZAAR. Se depois de avisado o player continuar anunciando, o mesmo levara BAN de 1 dia, se persistir depois disso é BAN Permanente.',
+  'Para colocar seu char no bazaar deve-se estar online no personagem e seguir a mesma maneira em que é feito no global, através do botão que fica localizado na STORE ao lado do "gift coins". Uma vez clicado ali, vai dar a lista dos requisitos necessários.',
   'O uso de macro é liberado apenas para treino, sendo estritamente proibido o uso para caçar. Quem for pego utilizando macro em locais de caça será banido por 365 dias (1 ano), podendo ter o prazo estendido em casos de reincidência.',
   'Para reportar um Bot/Macro afk na hunt, de um Ctrl+Click no personagem suspeito e vá em "Report Bot/Macro”, assim que possível os GM irão averiguar o meliante. ',
   'Para reportar um BUG, de um Ctrl+Z e em seguida coloque o máximo de detalhes possíveis para que a equipe encontre a causa do problema. Reportar bugs é importante e você pode ser recompensado por isso.',
@@ -29,7 +29,9 @@ var msgs = [
   'Qualquer comércio no [World Chat] é proibido, mute sem aviso prévio. Por Gentileza use o [Advertising]',
   'Conversas aleatórias, Vendas/Compras no Help não são permitidos, passivo de mute, Evitem por favor!',
   'Utilize o HELP para dúvidas, o uso indevido resultará em mute. Use Wchat para boss/hunt e Adversing para vendas.',
-  'ferumbrinha.suporte@gmail.com'
+  'ferumbrinha.suporte@gmail.com',
+  'Recompensa do Battlefield: 25 crystal coins - 25 tournament coins - 200K de experiência multiplicado pelo número de jogadores sobreviventes (ex.: 200K * 5 = 1KK EXP)',
+  'Para pegar suas config e hotkeys de um cliente pro outro faça o seguinte: Config > Misc > Help > Export all options - E no cliente que for receber, faça a mesma coisa trocando o Export por Import'
   ]
 
 function c(t) {
