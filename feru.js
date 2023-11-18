@@ -14,7 +14,7 @@ var msgs = [
   'Para reportar um Bot/Macro afk na hunt, de um Ctrl+Click no personagem suspeito e vá em "Report Bot/Macro", assim que possível os GM irão averiguar o meliante. ',
   'Para reportar um BUG, de um Ctrl+Z e em seguida coloque o máximo de detalhes possíveis para que a equipe encontre a causa do problema. Reportar bugs é importante e você pode ser recompensado por isso.',
   'Todo Donate é processado de forma automática pelo servidor. Normalmente o processo ocorre imediatamente, mas o prazo máximo é de 24hrs. Lembre-se, quanto mais TC você comprar, maior vai ser o desconto. ',
-  'Para um progresso mais rápido no avanço das skills, recomendamos EK/RP treinarem no Trainner + Dummy, enquanto para Mage o melhor é o Dummy de House que da +10%.',
+  'Para um progresso mais rápido no avanço das skills, recomendamos o Dummy de House que da +10%.',
   'Conforme a mecânica do game, cada sala de Boss tem um tempo máximo de permanência, então se alguém estiver "trapando o boss", o mesmo será kikado no tempo limite da sala. A staff não pode intervir nisso.',
   'Você pode se conectar em até 5 contas no mesmo IP ao mesmo tempo. Porém apenas é permitido estar jogando em 1 Char, os outros podem ficar treinando. Caso seja detectado que o mesmo IP tem 2 personagens jogando ao mesmo tempo, a conta poderá ser Banida.',
   'Apenas é possivel pegar a !reward 1 vez por conta - se criada após 01/12. No lvl 10 você recebe uma varinha e 3 dias de VIP e ao atingir o lvl 300 você recebe uma Ferumbrinha Gift Box.',
