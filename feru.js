@@ -22,7 +22,7 @@ var msgs = [
   'Qualquer dúvida em relação aos eventos do servidor, consulte a aba de "EVENTOS" no nosso !discord.',
   'Não temos o npc Addoner, então todos os addons você tem que fazer seguindo a lógica do global, fazendo as quests e entregando os itens pedidos, portanto eu te aconselho a procurar nas wikis tibianas para fazer.',
   'Não temos o npc vendedor de itens de imbuements. Todos eles devem ser comprados via market, trocados via GT ou farmados por meio de drop.',
-  'O Ferumbrinha é um boss diário que nasce na Event Island. Pra acessar tem que pegar o TP à direita DENTRO DO TEMPLO de Thais. O portal abre as 19h, boss nasce as 19:10h. O loot contém alguns rares e domingos dropa o TICKET pra trocar pelo rare do site.',
+  'O Ferumbrinha é um boss diário que nasce na Event Island. Pra acessar tem que pegar o TP à direita DENTRO DO TEMPLO de Thais. O portal abre as 19h, boss nasce as 19:10h. O loot contém alguns rares e domingos dropa uma chance na roleta nova que da um item raro.',
   'Ofensas CRIMINOSAS como: racismo, xenofobia, homofobia e etc.. Não serão toleradas e são passíveis de punição de acordo com a gravidade e contexto, caso seja vítima de algumas dessas ofensas encaminhe o máximo de provas possíveis (prints) para o e-mail do suporte.',
   'Todo e qualquer desrespeito, entre players e para/com a staff do jogo, não será tolerado e será punido de acordo com a gravidade e reincidência do ocorrido. Com a punição podendo variar entre WARNING até exclusão da conta.',
   'Rapaziada que estiver com lag: façam o procedimento do !discord, lá da aba "LAG ISSUES", e abram um ticket com o que foi pedido no post.',
