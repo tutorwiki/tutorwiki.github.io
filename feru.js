@@ -32,7 +32,7 @@ var msgs = [
   'ferumbrinha.suporte@gmail.com',
   'Recompensa do Battlefield: 25 crystal coins - 25 tournament coins - 200K de experiência multiplicado pelo número de jogadores sobreviventes (ex.: 200K * 5 = 1KK EXP)',
   'Para pegar suas config e hotkeys de um cliente pro outro faça o seguinte: Config > Misc > Help > Export all options - E no cliente que for receber, faça a mesma coisa trocando o Export por Import',
-  'As roletas são um sistema onde você tem chance de ganahr itens valiosos, a roleta do sul é para itens de fansite, a do norte esquerda é a roleta do ferumrbinhas do domingo para item raro, e as outras são para o restante dos itens, são as roletas "normais"',
+  'As roletas são um sistema onde você tem chance de ganhar itens valiosos, a roleta do sul é para itens de fansite, a do norte esquerda é a roleta do ferumbrinhas do domingo para item raro, e as outras são as "normais" para o restante dos itens',
   'o Acesso das task está na Adventures Island subindo a escada a direita no TP do barquinho, as recompensas podem ser visualizadas ao aceitar uma task'
   ]
 
