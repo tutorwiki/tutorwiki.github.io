@@ -10,7 +10,7 @@ var msgs = [
   'Voce ganha Tournament Poins ficando online durante 1 hora continua. Enquanto Free recebem 10 Tournament/h, quem é VIP recebe 20 Tournament/h.',
   'Apenas é permitido anunciar venda de Char que ESTEJA NO BAZAAR. Se depois de avisado o player continuar anunciando, o mesmo levara BAN de 1 dia, se persistir depois disso é BAN Permanente.',
   'Para colocar seu char no bazaar deve-se estar online no personagem e seguir a mesma maneira em que é feito no global, através do botão que fica localizado na STORE ao lado do "gift coins". Uma vez clicado ali, vai dar a lista dos requisitos necessários.',
-  'O uso de macro é liberado apenas para treino, sendo estritamente proibido o uso para caçar. Quem for pego utilizando macro em locais de caça será banido por 365 dias (1 ano), podendo ter o prazo estendido em casos de reincidência.',
+  'O uso de macro é liberado apenas para treino, sendo estritamente proibido o uso para caçar. Quem for pego utilizando macro em locais de caça será banido.',
   'Para reportar um Bot/Macro afk na hunt, de um Ctrl+Click no personagem suspeito e vá em "Report Bot/Macro", assim que possível os GM irão averiguar o meliante. ',
   'Para reportar um BUG, de um Ctrl+Z e em seguida coloque o máximo de detalhes possíveis para que a equipe encontre a causa do problema. Reportar bugs é importante e você pode ser recompensado por isso.',
   'Todo Donate é processado de forma automática pelo servidor. Normalmente o processo ocorre imediatamente, mas o prazo máximo é de 24hrs. Lembre-se, quanto mais TC você comprar, maior vai ser o desconto. ',
