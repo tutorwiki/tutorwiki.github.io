@@ -17,7 +17,7 @@ var msgs = [
   'Para um progresso mais rápido no avanço das skills, recomendamos o Dummy de House que da +10%.',
   'Conforme a mecânica do game, cada sala de Boss tem um tempo máximo de permanência, então se alguém estiver "trapando o boss", o mesmo será kikado no tempo limite da sala. A staff não pode intervir nisso.',
   'Você pode se conectar em até 5 contas no mesmo IP ao mesmo tempo. Porém apenas é permitido estar jogando em 1 Char, os outros podem ficar treinando. Caso seja detectado que o mesmo IP tem 2 personagens jogando ao mesmo tempo, a conta poderá ser Banida.',
-  'Apenas é possivel pegar a !reward 1 vez por conta - se criada após 01/12. No lvl 10 você recebe uma varinha e 3 dias de VIP e ao atingir o lvl 300 você recebe uma Ferumbrinha Gift Box.',
+  'Quando o personagem atingir o level 20, poderá utilizar o comando !reward para receber uma varinha de treino da sua maior skill, de acordo com a vocação escolhida',
   'Pode vir UMA das seguintes recompensas: 15 dias de Vip, Varinha de 46k, Outfit Retro, Outfit Store, 20 Pray cards, Mount Store, Loot Pouch, Tournament Coins',
   'Qualquer dúvida em relação aos eventos do servidor, consulte a aba de "EVENTOS" no nosso !discord.',
   'Não temos o npc Addoner, então todos os addons você tem que fazer seguindo a lógica do global, fazendo as quests e entregando os itens pedidos, portanto eu te aconselho a procurar nas wikis tibianas para fazer.',
