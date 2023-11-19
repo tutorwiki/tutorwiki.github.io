@@ -1,5 +1,5 @@
 var msgs = [
-  'XP +30% // 2x Tournament Coins // Autoloot // Fast Regen // Montaria e Outfit Exclusivos // Boosted Exercises (25%+ Rapido) // Sistema de loyalty: A cada 30 dias de VIP comprados, o jogador ganha 1 de Skill com um limite de 10',
+  'XP +30% // 2x Tournament Coins // Autoloot // Fast Regen // Montaria e Outfit Exclusivos // Boosted Exercises (25%+ Rapido) // +10% de critico // Sistema de loyalty: A cada 30 dias de VIP comprados, o jogador ganha 1 de Skill com um limite de 10',
   'O !autoloot é uma utilidade VIP. Com ele ativo, toda vez que voce mata uma criatura ela automaticamente é loteada. Caso você esteja em party, o leader recebe todo loot se ele for VIP. Precisa configurar o Quick Loot para funcionar',
   'O Ferumbrinha Loot é uma alternativa de lotear para quem não tem VIP. Dando USE (pode colocar na Hotkey), ele loteia todas as criaturas ao seu redor, como um *exeta loot*. Custa 250 Tournament na Store e precisa configurar o Quick Loot para funcionar.',
   'Para comprar uma casa você precisa ser lvl 250+. Va até a Cyclopedia, escolha uma house "Auctioned" e dê um BID. Se até o SS o seu BID for o maior você ganha. Descontará o valor do segundo maior BID + Aluguel Semanal. Um char pode comprar apenas 1 House.',
@@ -22,7 +22,7 @@ var msgs = [
   'Qualquer dúvida em relação aos eventos do servidor, consulte a aba de "EVENTOS" no nosso !discord.',
   'Não temos o npc Addoner, então todos os addons você tem que fazer seguindo a lógica do global, fazendo as quests e entregando os itens pedidos, portanto eu te aconselho a procurar nas wikis tibianas para fazer.',
   'Não temos o npc vendedor de itens de imbuements. Todos eles devem ser comprados via market, trocados via GT ou farmados por meio de drop.',
-  'O Ferumbrinha é um boss diário que nasce na Event Island. Pra acessar tem que pegar o TP à direita DENTRO DO TEMPLO de Thais. O portal abre as 19h, boss nasce as 19:10h. O loot contém alguns rares e domingos dropa uma chance na roleta nova que da um item raro.',
+  'O Ferumbrinha é um boss diário que nasce na Event Island. Pra acessar basta entrar no TP à direita DENTRO DO TEMPLO de Thais. O portal abre as 19h, boss nasce as 19:10h.',
   'Ofensas CRIMINOSAS como: racismo, xenofobia, homofobia e etc.. Não serão toleradas e são passíveis de punição de acordo com a gravidade e contexto, caso seja vítima de algumas dessas ofensas encaminhe o máximo de provas possíveis (prints) para o e-mail do suporte.',
   'Todo e qualquer desrespeito, entre players e para/com a staff do jogo, não será tolerado e será punido de acordo com a gravidade e reincidência do ocorrido. Com a punição podendo variar entre WARNING até exclusão da conta.',
   'Rapaziada que estiver com lag: façam o procedimento do !discord, lá da aba "LAG ISSUES", e abram um ticket com o que foi pedido no post.',
